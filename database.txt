@@ -1,1 +1,1 @@
-[{"name":"Bhavuk Dhawan","Roll number":"","email":"devdhawan222@gmail.com","gender":"male","fileData":"[]"}][{"name":"Bhavuk Dhawan","Roll number":"","email":"devdhawan222@gmail.com","gender":"male"}]
+[{"name":"rhitk sharma","Roll number":"","email":"ritik1295.cse19@chitkara.edu.in","gender":"male","fileData":"[]"}][{"name":"ritk sharma","Roll number":"","email":"ritik1295.cse19@chitkara.edu.in","gender":"male"}]
